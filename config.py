@@ -3,3 +3,5 @@ lvl_size = {
     2: 5,
     3: 6
 }
+
+PERCENT_BOMBS=20
